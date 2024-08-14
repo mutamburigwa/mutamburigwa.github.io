@@ -1,7 +1,7 @@
 ---
 title: My Journey in Software Development
 description: A glimpse into my ongoing journey in software development, where I am still learning and growing.
-author: Takudzwa
+author: Takudzwa Mutamburigwa
 date: 2024-08-14 10:00:00 +0200
 categories: [Software Development, Learning]
 tags: [web development, programming, learning, software engineering]
